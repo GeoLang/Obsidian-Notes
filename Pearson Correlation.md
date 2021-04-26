@@ -1,0 +1,1 @@
+Pearson can be used for feature ranking. Gives an idea of the relationship between features and classes.
