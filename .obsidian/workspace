@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20210426.md",
+            "file": "Day Planners/Day Planner-20210427.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "02f5a221d23b911f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Day Planners/Day Planner-20210427.md",
             "mode": "preview"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20210426.md",
+                "file": "Day Planners/Day Planner-20210427.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +118,15 @@
   },
   "active": "68327e13e283320b",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20210427.md",
     "Day Planners/Day Planner-20210426.md",
+    "README.md",
     "Papers/(1994) Low resolution electromagnetic tomography a new method for localizing electrical activity in the brain.md",
     "Images/aud1.svg",
     "Images/HL2.svg",
     "BCI Speller.md",
     "Papers/(1988) Talking off the top of your head toward a mental prosthesis utilizing event-related brain potentials.md",
     "Papers/(2011) Theoretical analysis of xDAWN algorithm Application to an efficient sensor selection in a P300 BCI.md",
-    "Papers/(2002) Statistical Parametric Mapping of LORETA Using High Density EEG and Individual MRI Application to Mismatch Negativities in Schizophrenia.md",
-    "Convolusional Neural Network.md",
-    "SVM.md"
+    "Papers/(2002) Statistical Parametric Mapping of LORETA Using High Density EEG and Individual MRI Application to Mismatch Negativities in Schizophrenia.md"
   ]
 }

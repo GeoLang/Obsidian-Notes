@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 22:03:28
+    %% Current Time: 23:59:58
     section Tasks
     Reorganising Notes     :15-00, 30mm
     Edit functions in vis to use provided axis     :15-30, 30mm
