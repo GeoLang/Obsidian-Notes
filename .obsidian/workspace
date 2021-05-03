@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20210427.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "02f5a221d23b911f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Day Planners/Day Planner-20210427.md",
+            "file": "Papers/(2018) A Review of Classification Algorithms for EEG-based Brain-Computer Interfaces A 10-year Update.md",
             "mode": "preview"
           }
         }
@@ -29,104 +18,79 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f61c2372d51721c5",
-    "type": "split",
+    "id": "0aa334132889b70e",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "fbd2062370140f12",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c2ba4d7910aa3614",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "c2dbe7e8656ac9e4",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#fully",
-                "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "file-explorer",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "search",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "tag",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
-    ],
-    "direction": "horizontal",
-    "width": 300
+    ]
   },
   "right": {
-    "id": "d5d5fd097253d5d5",
-    "type": "split",
+    "id": "a1cb8a24759049d6",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "058ef46a7d30879d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fe3265c2d4aeea3d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Day Planners/Day Planner-20210427.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "189b695e99e93e88",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "e33302bdc0e50ac4",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
+        "id": "backlink",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Papers/(2018) A Review of Classification Algorithms for EEG-based Brain-Computer Interfaces A 10-year Update.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ],
-        "currentTab": 2
+        }
       }
-    ],
-    "direction": "horizontal",
-    "width": 300
+    ]
   },
   "active": "68327e13e283320b",
   "lastOpenFiles": [
+    "Papers/(2018) A Review of Classification Algorithms for EEG-based Brain-Computer Interfaces A 10-year Update.md",
+    "CSP.md",
+    "Papers/PDFs/A Review of Classification Algorithms for EEG_210501_171922.pdf",
     "Day Planners/Day Planner-20210427.md",
     "Day Planners/Day Planner-20210426.md",
     "README.md",
     "Papers/(1994) Low resolution electromagnetic tomography a new method for localizing electrical activity in the brain.md",
     "Images/aud1.svg",
     "Images/HL2.svg",
-    "BCI Speller.md",
-    "Papers/(1988) Talking off the top of your head toward a mental prosthesis utilizing event-related brain potentials.md",
-    "Papers/(2011) Theoretical analysis of xDAWN algorithm Application to an efficient sensor selection in a P300 BCI.md",
-    "Papers/(2002) Statistical Parametric Mapping of LORETA Using High Density EEG and Individual MRI Application to Mismatch Negativities in Schizophrenia.md"
+    "BCI Speller.md"
   ]
 }
