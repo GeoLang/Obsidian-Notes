@@ -22,6 +22,9 @@ gantt
 - [x] 16:20 Record IEEE NER Speech! (Script written)
 - [x] 16:40 Reading Review paper
 - [x] 18:00 BREAK
+- [ ] 18:00 More Reading
+- [ ] 20:00 BREAK
+- [ ] 20:30 More reading?
 
 
 ```python
